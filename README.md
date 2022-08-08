@@ -1,4 +1,4 @@
-# Time-Series With Konard
+# Time-Series With Konrad
 
 This series of notebooks are based on this [playlist](https://youtube.com/playlist?list=PL98nY_tJQXZmT9ZB59T0lsx0ZzzLrYdX4).
 There are corresponding [kaggle kernels](https://www.kaggle.com/code/konradb/ts-1b-prophet) too.
